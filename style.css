@@ -30,3 +30,17 @@ a, button:hover {
 .skills{
     font-family:'Courier New', Courier, monospace;
 }
+.about{
+    font-size: 1.2rem;
+}
+ul {
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+  }
+li {
+    float: left;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+  }
